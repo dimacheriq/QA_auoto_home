@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTests1">
+        <parameter name="search" value="input"/>
+        <classes>
+            <class name="hw4.task5.Param"/>
+        </classes>
+    </test><test name="AllTests2">
+    <parameter name="search" value="car"/>
+    <classes>
+        <class name="hw4.task5.Param"/>
+    </classes>
+    </test><test name="AllTests3">
+    <parameter name="search" value="anythingElse"/>
+    <classes>
+        <class name="hw4.task5.Param"/>
+    </classes>
+</test>
+</suite>

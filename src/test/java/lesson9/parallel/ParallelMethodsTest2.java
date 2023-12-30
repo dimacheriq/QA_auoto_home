@@ -10,7 +10,7 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import utils.ActionsClass;
 
-public class ParallelMethodsTest2 {
+public class  ParallelMethodsTest2 {
 
 
 
